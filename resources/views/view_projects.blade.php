@@ -33,7 +33,7 @@
                     <label for="project_description">Project Description</label>
                     <input class="form-control" type="text" id="input" v-model="project_description" placeholder="Enter a Description">
                 </div>
-                <input type="submit" class="btn btn-success">
+                <input type="submit" class="btn btn-success"> 
             </form>
 
 
@@ -69,7 +69,7 @@
       src="https://maps.googleapis.com/maps/api/js?callback=initMap"
       defer
     ></script>
-    
+
     </body>
 </html>
 
